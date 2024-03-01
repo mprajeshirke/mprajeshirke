@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @mprajeshirke
+- 👀 I’m interested in Comics and Robotics
+- 🌱 I’m currently learning Robotics
+- 💞️ I’m looking to collaborate on Open-source robotics projects
+- 📫 How to reach me - email padvalrajeshirke@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I did everything in my power to not to get confused about my career. Hence it took me 4 yrs to 'come back' to robotics.
